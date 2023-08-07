@@ -1,3 +1,3 @@
 # Customer-Segmentation
 
-The aim of this project is to develop a market intelligence dashboard using Python that performs customer segmentation based on various attributes.
+This will enable businesses to gain insights into their customer base, identify different customer segments, and make data-driven decisions to improve marketing strategies and customer experience.
